@@ -10,11 +10,19 @@
 
 ### Installation
 
-### Tests
+## Deployment
+
+### On dev environnement
+
+### On integration environnement
+
+## Run Tests
 
 ## Directory structure
 
 (tree /f)
+
+## Collaborate
 
 ## License
 
