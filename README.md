@@ -11,6 +11,7 @@ This project is designed to .... and the main features are ...
 ### Prerequisites
 
 List all dependencies and their version needed by the project as :
+
      * DataBase Engine (MySql, PostgreSQL, MSSQL,...)
      * IDE used (PhpStorm, Visual Studio Code, IntelliJ,...)
      * Package manager (Nuget, Composer, npm, ...)
@@ -37,6 +38,7 @@ How to deploy the application outside the dev environment.
 
 * Tip: try the tree bash command
 
+```shell
 * ├───Docs
 ├───Shopping                                        //classes and packages
 │   ├───bin                                         //the binary to deploy on the end-user environment
@@ -48,6 +50,7 @@ How to deploy the application outside the dev environment.
     │   └───Debug
     └───obj
         └───Debug
+```
 
 ## Collaborate
 
