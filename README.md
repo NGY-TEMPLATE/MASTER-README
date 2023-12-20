@@ -12,11 +12,11 @@ This project is designed to .... and the main features are ...
 
 List all dependencies and their version needed by the project as :
 
-     * DataBase Engine (MySql, PostgreSQL, MSSQL,...)
-     * IDE used (PhpStorm, Visual Studio Code, IntelliJ,...)
-     * Package manager (Nuget, Composer, npm, ...)
-     * OS supported (W2k22, Debian12,...)
-     * Virtualization (Docker, .Net, .JDK, .JRE)
+* DataBase Engine (MySql, PostgreSQL, MSSQL,...)
+* IDE used (PhpStorm, Visual Studio Code, IntelliJ,...)
+* Package manager (Nuget, Composer, npm, ...)
+* OS supported (W2k22, Debian12,...)
+* Virtualization (Docker, .Net, .JDK, .JRE)
 
 ### Configuration
 
@@ -39,7 +39,7 @@ How to deploy the application outside the dev environment.
 * Tip: try the tree bash command
 
 ```shell
-* ├───Docs
+├───Docs
 ├───Shopping                                        //classes and packages
 │   ├───bin                                         //the binary to deploy on the end-user environment
 │   │   └───Debug
