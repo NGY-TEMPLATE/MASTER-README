@@ -40,12 +40,12 @@ How to deploy the application outside the dev environment.
 
 ```shell
 ├───Docs
-├───Shopping                                        //classes and packages
-│   ├───bin                                         //the binary to deploy on the end-user environment
+├───Shopping                                        //descption of the folder content, if not self explained
+│   ├───bin                                         //
 │   │   └───Debug
 │   └───obj
 │       └───Debug                                   
-└───TestShopping                                    //test classes
+└───TestShopping                                    //
     ├───bin
     │   └───Debug
     └───obj
